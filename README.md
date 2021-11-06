@@ -1,5 +1,5 @@
-# Pruebas_Entrevistas_de_trabajo
-archivos y enlaces de proyectos realizados durante procesos de reclutamiento de diferentes empresas.
+# Dashboard_Datastudio
+visualizacion de datos
 
 ## Dashboard en google data studio
 Enlace para visualización e interacción con el dashboard:
